@@ -67,13 +67,13 @@ Done 🎉
 Main Chat Interface
 
 Landing Page
-![Landing page](image1.png)
+![My Image](image1.png)
 
 Enter api_key
-![Added api_key](image2.png)
+![My Image](image2.png)
 
 Enter Jarvis is ready
-![Start chat with Jarvis](image3.png)
+![My Image](image3.png)
 
 📜 Requirements
 
@@ -97,6 +97,7 @@ This app is for learning & fun purposes.
 💡 Future In App
 
 Add conversation history memory using st.session_state
+
 
 Support for one model - mistralai/mistral-small-3.1-24b-instruct:free
 
