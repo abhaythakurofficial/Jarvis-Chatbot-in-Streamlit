@@ -63,11 +63,6 @@ Create a new app and link your GitHub repo.
 
 Done 🎉
 
-📷 Screenshots
-Main Chat Interface
-
-(Add a screenshot of your deployed app here)
-
 📜 Requirements
 
 Python 3.9+
@@ -87,13 +82,13 @@ Free-tier OpenRouter models may have usage limits.
 
 This app is for learning & fun purposes.
 
-💡 Future Improvements
+💡 Future In App
 
-Add conversation history memory
+Add conversation history memory using st.session_state
 
-Support for multiple models (GPT, Mistral, Claude, etc.)
+Support for one model - mistralai/mistral-small-3.1-24b-instruct:free
 
-Dark/light mode toggle
+Dark/light mode toggle according to your system
 
 Downloadable chat transcripts
 
