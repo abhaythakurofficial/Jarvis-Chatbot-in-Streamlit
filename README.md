@@ -56,12 +56,24 @@ To deploy your own:
 
 Push your repo to GitHub.
 
-Go to Streamlit Cloud
-.
+Go to Streamlit Cloud.
 
 Create a new app and link your GitHub repo.
 
 Done 🎉
+
+📷 Screenshots
+
+Main Chat Interface
+
+Landing Page
+![My Image](image1.png)
+
+Enter api_key
+![My Image](image2.png)
+
+Enter Jarvis is ready
+![My Image](image3.png)
 
 📜 Requirements
 
