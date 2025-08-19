@@ -67,7 +67,7 @@ Done 🎉
 Main Chat Interface
 
 Landing Page
-![My Image](image1.png)
+<img width="1919" height="1084" alt="Image" src="https://github.com/user-attachments/assets/b67379d3-003d-41bb-a93e-5872deb90f78" />
 
 Enter api_key
 ![My Image](image2.png)
