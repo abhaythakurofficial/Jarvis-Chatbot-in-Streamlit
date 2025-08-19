@@ -67,7 +67,7 @@ Done 🎉
 Main Chat Interface
 
 Landing Page
-<img width="1919" height="1084" alt="Screenshot 2025-08-19 174451" src="https://github.com/user-attachments/assets/71e017a3-af6c-4680-bdb1-16b49e258471" />
+<img width="1919" height="1084" alt="Screenshot 2025-08-19 174451" src="https://github.com/user-attachments/assets/55fa27f9-70da-4d9c-973a-d839b83a66c7" />
 
 Enter api_key
 <img width="1915" height="1077" alt="Screenshot 2025-08-19 174510" src="https://github.com/user-attachments/assets/be594d1a-3bfb-44ef-83ab-12e074e09ca6" />
