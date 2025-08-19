@@ -5,6 +5,16 @@ Inspired by **Jarvis from Iron Man**, the bot responds in a short, cool, and hum
 
 👉 Live Demo: [jarvis-chatbot-st.streamlit.app](https://jarvis-chatbot-st.streamlit.app/)
 
+Landing Page
+<img width="1919" height="1084" alt="Image" src="https://github.com/user-attachments/assets/b67379d3-003d-41bb-a93e-5872deb90f78" />
+
+Enter api_key
+![My Image](image2.png)
+
+Enter Jarvis is ready
+![My Image](image3.png)
+
+
 ---
 
 ## ✨ Features
@@ -65,15 +75,6 @@ Done 🎉
 📷 Screenshots
 
 Main Chat Interface
-
-Landing Page
-<img width="1919" height="1084" alt="Image" src="https://github.com/user-attachments/assets/b67379d3-003d-41bb-a93e-5872deb90f78" />
-
-Enter api_key
-![My Image](image2.png)
-
-Enter Jarvis is ready
-![My Image](image3.png)
 
 📜 Requirements
 
