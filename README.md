@@ -67,13 +67,13 @@ Done 🎉
 Main Chat Interface
 
 Landing Page
-![My Image](image1.png)
+<img width="1919" height="1084" alt="Screenshot 2025-08-19 174451" src="https://github.com/user-attachments/assets/71e017a3-af6c-4680-bdb1-16b49e258471" />
 
 Enter api_key
-![My Image](image2.png)
+<img width="1915" height="1077" alt="Screenshot 2025-08-19 174510" src="https://github.com/user-attachments/assets/be594d1a-3bfb-44ef-83ab-12e074e09ca6" />
 
 Enter Jarvis is ready
-![My Image](image3.png)
+<img width="1919" height="1089" alt="Screenshot 2025-08-19 174611" src="https://github.com/user-attachments/assets/721490b2-808a-44e3-b651-6c363dc00950" />
 
 📜 Requirements
 
@@ -97,6 +97,7 @@ This app is for learning & fun purposes.
 💡 Future In App
 
 Add conversation history memory using st.session_state
+
 
 Support for one model - mistralai/mistral-small-3.1-24b-instruct:free
 
