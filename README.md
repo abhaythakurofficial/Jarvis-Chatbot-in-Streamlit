@@ -67,13 +67,13 @@ Done 🎉
 Main Chat Interface
 
 Landing Page
-![My Image](image1.png)
+![Landing page](image1.png)
 
 Enter api_key
-![My Image](image2.png)
+![Added api_key](image2.png)
 
 Enter Jarvis is ready
-![My Image](image3.png)
+![Start chat with Jarvis](image3.png)
 
 📜 Requirements
 
